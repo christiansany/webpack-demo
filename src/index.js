@@ -1,4 +1,4 @@
-import getCharacters from "./characters";
+import { getCharacters } from "./characters/characters";
 // import './styles/styles.css'
 
 function component() {
